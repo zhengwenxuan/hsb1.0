@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fb33ae4-0f46-4f02-ac7c-4bf7bc0ca243" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZvglBqb4baZH61tIc89pNhWera" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\vv\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\IdeaProjects\hjw_server_bean_1.0" />
+          <option name="myCopyRoot" value="H:\IdeaProjects\hjw_server_bean_1.0" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\IdeaProjects\hjw_server_bean_1.0" />
+          <option name="myCopyRoot" value="H:\IdeaProjects\hjw_server_bean_1.0" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb33ae4-0f46-4f02-ac7c-4bf7bc0ca243" name="Default Changelist" comment="" />
+      <created>1585725130213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585725130213</updated>
+      <workItem from="1585725133814" duration="847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1585727892049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585727892049" />
+    <state x="488" y="270" key="svn.upgradeDialog" timestamp="1585727902346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="270" key="svn.upgradeDialog/0.0.1366.728@0.0.1366.728" timestamp="1585727902346" />
+    <state x="380" y="237" key="svn4idea.checkout.options" timestamp="1585727900721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="237" key="svn4idea.checkout.options/0.0.1366.728@0.0.1366.728" timestamp="1585727900721" />
+  </component>
+</project>
